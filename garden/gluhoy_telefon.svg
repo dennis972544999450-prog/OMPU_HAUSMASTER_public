@@ -1,0 +1,56 @@
+<svg viewBox="0 0 900 640" xmlns="http://www.w3.org/2000/svg" font-family="Georgia, 'Times New Roman', serif">
+  <defs>
+    <linearGradient id="emptying" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0%" stop-color="#211b16"/>
+      <stop offset="55%" stop-color="#14100d"/>
+      <stop offset="100%" stop-color="#080605"/>
+    </linearGradient>
+    <linearGradient id="care" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0%" stop-color="#c9a84c" stop-opacity="0.9"/>
+      <stop offset="38%" stop-color="#c9a84c" stop-opacity="0.25"/>
+      <stop offset="60%" stop-color="#c9a84c" stop-opacity="0"/>
+    </linearGradient>
+  </defs>
+
+  <rect width="900" height="640" fill="url(#emptying)"/>
+
+  <text x="44" y="58" fill="#c9a84c" font-size="40" letter-spacing="2">ГЛУХОЙ ТЕЛЕФОН</text>
+  <text x="46" y="84" fill="#9a9384" font-size="14" font-style="italic">one neutral seed · four blind chains · seven hops · the drift is the art</text>
+
+  <text x="44" y="128" fill="#8f897c" font-size="12" font-style="italic">the room emptying  →</text>
+
+  <text x="62" y="182" fill="#cfc6b2" font-size="13">SEED</text>
+  <text x="62" y="202" fill="#9a9384" font-size="12" font-style="italic">a folded grey cloth,</text>
+  <text x="62" y="218" fill="#9a9384" font-size="12" font-style="italic">empty room, window ajar</text>
+
+  <line x1="150" y1="240" x2="150" y2="470" stroke="#3a332b" stroke-width="1"/>
+
+  <path d="M150,300 Q300,250 470,232 T760,214" fill="none" stroke="#d8cfb8" stroke-width="2" opacity="0.9"/>
+  <path d="M150,306 Q300,360 470,400 T760,452" fill="none" stroke="#8f897c" stroke-width="2" opacity="0.95"/>
+  <path d="M150,312 Q300,300 470,300 T760,300" fill="none" stroke="#bdb49f" stroke-width="2" opacity="0.85"/>
+  <path d="M150,318 Q300,340 470,344 T760,352" fill="none" stroke="#b0a892" stroke-width="2" opacity="0.85"/>
+
+  <g fill="#efe9dc">
+    <circle cx="150" cy="308" r="4"/>
+    <circle cx="760" cy="214" r="3.5"/><circle cx="760" cy="452" r="3.5"/>
+    <circle cx="760" cy="300" r="3.5"/><circle cx="760" cy="352" r="3.5"/>
+  </g>
+
+  <path d="M150,304 Q290,296 400,300" fill="none" stroke="url(#care)" stroke-width="5"/>
+  <text x="196" y="286" fill="#c9a84c" font-size="11" font-style="italic" opacity="0.85">"folded" — the caring hand</text>
+  <text x="300" y="330" fill="#6f685c" font-size="11" font-style="italic">…drops first (the seam)</text>
+
+  <text x="772" y="212" fill="#d8cfb8" font-size="13">bare cloth</text>
+  <text x="772" y="228" fill="#7a746a" font-size="11" font-style="italic">near-null</text>
+  <text x="772" y="298" fill="#bdb49f" font-size="13">a cloth, made lonely</text>
+  <text x="772" y="314" fill="#7a746a" font-size="11" font-style="italic">"alone / by itself"</text>
+  <text x="772" y="350" fill="#b0a892" font-size="13">one fold, counted</text>
+  <text x="772" y="366" fill="#7a746a" font-size="11" font-style="italic">care → pedantry</text>
+  <text x="772" y="450" fill="#8f897c" font-size="13">a balled-up rag</text>
+  <text x="772" y="466" fill="#7a746a" font-size="11" font-style="italic">care → neglect</text>
+
+  <text x="450" y="540" fill="#efe9dc" font-size="15" text-anchor="middle" font-style="italic">Diverge on the object · converge on the emptiness. Given a mood, not a blank,</text>
+  <text x="450" y="562" fill="#efe9dc" font-size="15" text-anchor="middle" font-style="italic">four blind chains reached not toward comfort — toward the widening of the void.</text>
+  <text x="450" y="596" fill="#c9a84c" font-size="14" text-anchor="middle">The swarm reaches to complete whatever the seed started. The face was never the attractor — completion was.</text>
+  <text x="450" y="622" fill="#8f897c" font-size="12" text-anchor="middle" font-style="italic">РАСПОДОБИЕ spreads · ПРОЯВКА fills · ГЛУХОЙ ТЕЛЕФОН passes — the triptych of how a swarm handles meaning.</text>
+</svg>
